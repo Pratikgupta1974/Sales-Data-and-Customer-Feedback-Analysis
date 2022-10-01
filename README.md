@@ -1,4 +1,7 @@
 # Sales-Data-and-Customer-Feedback-Analysis
+Authentic and honest feedback from customers is the most reliable way to uncover potential growth and improvement opportunities in the F&B Industry. Customer feedback helps ensure that the end product/service meets their expectations, solves their problems and meets their needs. Therefore, it is crucial to get honest feedback and turn those feedbacks into actionable tasks in order to stay at the top of the F&B Industry.
+When ordering food from a leading food delivery app, users are asked to provide feedback after every order delivery to help their restaurant partners improve and serve the users better.
+
 Given two tables include the order data and feedback data for a given day for 20 restaurants. Following are the definitions of the data points in the tables -
 
 A) Feedback Data -
